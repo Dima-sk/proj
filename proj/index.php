@@ -6,5 +6,3 @@ if (!empty(($_SESSION['user']))) {
 }else{
     header('Location: ../Registraiya/login.php');
 }
-
-
